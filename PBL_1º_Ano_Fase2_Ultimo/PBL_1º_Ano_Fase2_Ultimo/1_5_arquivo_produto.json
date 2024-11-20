@@ -1,0 +1,58 @@
+{
+    "integrantes": [
+        {
+            "nome": "Ivan Fontes de Assis",
+            "rm": "561180"
+        },
+        {
+            "nome": "Marcelo Henrique Pereira",
+            "rm": "559887"
+        },
+        {
+            "nome": "Pedro Moura marques",
+            "rm": "559942"
+        },
+        {
+            "nome": "Teddy Sath Bitencourt Ferreira",
+            "rm": "561094"
+        }
+    ],
+    "produtos": [
+        {
+            "descricao": "Echo Pop",
+            "valor": 249.0,
+            "embalagem": "caixa",
+            "icms": 44.82
+        },
+        {
+            "descricao": "Echo Dot",
+            "valor": 429.0,
+            "embalagem": "caixa",
+            "icms": 77.22
+        },
+        {
+            "descricao": "Echo Spot",
+            "valor": 579.0,
+            "embalagem": "caixa",
+            "icms": 104.22
+        },
+        {
+            "descricao": "Echo com Alexa",
+            "valor": 749.0,
+            "embalagem": "caixa",
+            "icms": 134.82
+        },
+        {
+            "descricao": "Echo Show",
+            "valor": 649.0,
+            "embalagem": "caixa",
+            "icms": 116.82
+        },
+        {
+            "descricao": "Echo studio",
+            "valor": 1799.0,
+            "embalagem": "caixa",
+            "icms": 323.82
+        }
+    ]
+}
